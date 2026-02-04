@@ -1,0 +1,36 @@
+[33mcommit 84f98d24f8d7e093c5da4319564688cb76fd2250[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: hoaianhno1 <vuhoaianh38@gmail.com>
+Date:   Tue Feb 3 22:03:31 2026 +0700
+
+    First Commit Java Core Practive
+
+ .gitignore                                         |  30 [32m+++++++[m
+ .idea/.gitignore                                   |  10 [32m+++[m
+ .idea/misc.xml                                     |   6 [32m++[m
+ .idea/modules.xml                                  |   8 [32m++[m
+ .idea/vcs.xml                                      |   6 [32m++[m
+ Day1.iml                                           |  11 [32m+++[m
+ src/Main.java                                      |  11 [32m+++[m
+ src/PersonalFinance/Demo.java                      | 100 [32m+++++++++++++++++++++[m
+ src/day1/ArrayUltils.java                          |  66 [32m++++++++++++++[m
+ src/day1/MajorityElement.java                      |  25 [32m++++++[m
+ src/day1/StringUltils.java                         |  39 [32m++++++++[m
+ .../DemoStudent.java                               |  44 [32m+++++++++[m
+ src/day3_comparator_anonymous_class/Student.java   |  44 [32m+++++++++[m
+ src/day3_employee/DemoEmployee.java                |  23 [32m+++++[m
+ src/day3_employee/Employee.java                    |  33 [32m+++++++[m
+ src/day3_employee/FullTimeEmloyee.java             |  28 [32m++++++[m
+ src/day3_employee/PartTimeEmployee.java            |  41 [32m+++++++++[m
+ .../DemoNotificationSystem.java                    |  35 [32m++++++++[m
+ src/day3_notification_system/EmailNotifier.java    |  21 [32m+++++[m
+ src/day3_notification_system/NotificationLog.java  |  48 [32m++++++++++[m
+ .../NotificationService.java                       |  47 [32m++++++++++[m
+ src/day3_notification_system/Notifier.java         |   5 [32m++[m
+ src/day3_notification_system/SlackNotifier.java    |  21 [32m+++++[m
+ src/day3_notification_system/SmsNotifier.java      |  21 [32m+++++[m
+ src/day3_payment/BankTransferPayment.java          |  19 [32m++++[m
+ src/day3_payment/CardPayment.java                  |  25 [32m++++++[m
+ src/day3_payment/DemoPayment.java                  |  19 [32m++++[m
+ src/day3_payment/Payment.java                      |   5 [32m++[m
+ src/day3_payment/PaymentProcessor.java             |  12 [32m+++[m
+ 29 files changed, 803 insertions(+)
